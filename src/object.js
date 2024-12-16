@@ -68,6 +68,10 @@ class DatabaseObject {
     return this.getProps()
       .reduce((json = {}, prop) => ({ ...json, [prop]: this.readString(prop) }), {})
   }
+
+  toString() {
+    return JSON.stringify(this.toJSON())
+  }
 }
 
 module.exports = {

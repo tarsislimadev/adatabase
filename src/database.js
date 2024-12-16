@@ -64,6 +64,10 @@ class Database {
     return this.list().find((data) => data.id == id)
   }
 
+  toString() {
+    return JSON.stringify(this.listJSON())
+  }
+
 }
 
 module.exports = {
