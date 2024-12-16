@@ -1,4 +1,4 @@
-const { v4: uuid } = require('@brtmvdl/uuid')
+const uuid = () => Math.random() * 1e10
 const fs = require('./libs/fs/index.js')
 const path = require('path')
 const { DatabaseObject } = require('./object.js')
