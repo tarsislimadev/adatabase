@@ -1,4 +1,4 @@
-# [@brtmvdl/database](https://www.npmjs.com/package/@brtmvdl/database)
+# [adatabase](https://www.npmjs.com/package/adatabase)
 
 Easy Database Node.js library
 
