@@ -42,7 +42,7 @@ node index.mjs
 
 ## author
 
-[@brtmvdl](https://www.linkedin.com/in/tarsislimadev/)
+[@tarsislimadev](https://www.linkedin.com/in/tarsislimadev/)
 
 ## license
 
