@@ -2,7 +2,7 @@
 
 Easy Database Node.js library
 
-[![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/brtmvdl/database/npm-publish.yml?label=GitHub%20Actions&link=https%3A%2F%2Fgithub.com%2Fbrtmvdl%2Fdatabase%2Factions%2Fworkflows%2Fnpm-publish.yml)](https://github.com/brtmvdl/database/actions/workflows/npm-publish.yml) [![npm](https://img.shields.io/npm/dw/%40brtmvdl/database?label=NPM%20Weekly%20Downloads)](https://www.npmjs.com/package/@brtmvdl/database) [![github/stars](https://img.shields.io/github/stars/brtmvdl/database?style=social)](https://img.shields.io/github/stars/brtmvdl/database?style=social) 
+[![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/tarsislimadev/adatabase/npm-publish.yml?label=GitHub%20Actions&link=https%3A%2F%2Fgithub.com%2Ftarsislimadev%2Fadatabase%2Factions%2Fworkflows%2Fnpm-publish.yml)](https://github.com/tarsislimadev/adatabase/actions/workflows/npm-publish.yml) [![npm](https://img.shields.io/npm/dw/adatabase?label=NPM%20Weekly%20Downloads)](https://www.npmjs.com/package/adatabase) [![github/stars](https://img.shields.io/github/stars/adatabase?style=social)](https://img.shields.io/github/stars/adatabase?style=social) 
 
 ## social & donate
 
@@ -13,7 +13,7 @@ Easy Database Node.js library
 ```bash
 # bash
 
-npm i @brtmvdl/database
+npm i adatabase
 ```
 
 ## how to use
@@ -21,7 +21,7 @@ npm i @brtmvdl/database
 ```js
 // index.mjs
 
-import { Database } from '@brtmvdl/database'
+import { Database } from 'adatabase'
 
 const db = new Database({ type: 'fs', config: '/data' })
 
@@ -42,7 +42,7 @@ node index.mjs
 
 ## author
 
-[@brtmvdl](https://www.linkedin.com/in/brtmvdl/)
+[@brtmvdl](https://www.linkedin.com/in/tarsislimadev/)
 
 ## license
 
